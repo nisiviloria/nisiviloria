@@ -1,13 +1,7 @@
 # 💫 About Me:
 Hi, I'm Nisi Viloria 👋<br><br>🎓 Fresh graduate with a **Diploma in Information Technology** at **Polytechnic University of the Philippines (PUP)**.<br>🎨 Passionate about crafting beautiful websites and clean UI/UX designs. <br> 💻 I enjoy front-end development and social media marketing.  <br>🌈 Outside programming, I enjoy video editing, reading books, drawing, and sometimes playing the ukulele. <br>📚 Currently exploring Angular, React.js, and UI/UX design principles. <br>🚀 I’m always excited to learn new skills and grow creatively & technically.
 
-<div align="center">
 
-# 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100087114153304) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nisi-viloria/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://ph.pinterest.com/peachymaeve/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nisiashley22@gmail.com) 
-
-</div>
 <div align="center">
 
 # 💻 Tech Stack
@@ -41,3 +35,15 @@ Hi, I'm Nisi Viloria 👋<br><br>🎓 Fresh graduate with a **Diploma in Informa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisiviloria&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
   </div>
+  
+
+<div align="center">
+  
+# 🌐 Find me around the web
+
+
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100087114153304) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nisi-viloria/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://pinterest.com/https://ph.pinterest.com/peachymaeve/) [![email](https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=linkedin&logoColor=white)](mailto:nisiashley22@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://nisiviloria.github.io/portofolio/)  
+
+</div>
