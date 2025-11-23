@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nisi Viloria 👋<br><br>🎓 Fresh graduate with a **Diploma in Information Technology** at **Polytechnic University of the Philippines (PUP)**.<br> 💻 I'm a Front-End Developer, Web Designer, UI/UX Designer, and Social Media Marketing Manager.  <br>🎨 I'm passionate about designing websites, creating clean UI/UX, and exploring graphic design.  <br>🌈 Outside programming, I enjoy video editing, reading books, drawing, and sometimes playing the ukulele.  <br>🚀 I’m always excited to learn new skills and grow creatively & technically.  <br>📚 Currently learning more about Front-End Development (Angular) and exploring Machine Learning.  <br>
+Hi, I'm Nisi Viloria 👋<br><br>🎓 Fresh graduate with a **Diploma in Information Technology** at **Polytechnic University of the Philippines (PUP)**.<br>🎨 Passionate about crafting beautiful websites and clean UI/UX designs. <br> 💻 I enjoy front-end development and social media marketing.  <br>🌈 Outside programming, I enjoy video editing, reading books, drawing, and sometimes playing the ukulele. <br>📚 Currently exploring Angular, React.js, and UI/UX design principles. <br>🚀 I’m always excited to learn new skills and grow creatively & technically.
 
 <div align="center">
 
@@ -41,8 +41,3 @@ Hi, I'm Nisi Viloria 👋<br><br>🎓 Fresh graduate with a **Diploma in Informa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nisiviloria&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   
   </div>
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nisiviloria&color=ff69b4&style=for-the-badge)
-
-</div>
